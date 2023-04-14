@@ -1,5 +1,9 @@
 # ConsoleAppStore
 
+# Диаграмма компонентов и их описание
+
+![](./images/component_diagram.svg)
+
 ## Os
 
 Обертка для взаимодействия с осью (в данном случае с `Ubuntu`):
